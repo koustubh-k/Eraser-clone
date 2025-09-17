@@ -2,9 +2,6 @@
 
 Welcome to the repository for a clone of Eraser.io, built with a modern stack including Next.js, Tailwind CSS, Shadcn/UI, Convex Database, and Kinde Authentication. This project is a showcase of cutting-edge web technologies and collaborative open-source development.
 
-## Walkthrough
-
-https://github.com/kaifcoder/eraser_clone/assets/57701861/5aa989ef-dc9d-444a-9fd1-7b89a2b86168
 
 ## Getting Started
 
